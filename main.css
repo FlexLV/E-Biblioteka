@@ -1,0 +1,28 @@
+body {
+    background-color: #000000;
+  }
+#sidebar{
+    position: absolute;
+    width: 232px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+    background: #616161;
+    mix-blend-mode: hard-light;
+    border-radius: 6px;
+}
+#Nosaukums{
+    position: absolute;
+width: 730px;
+height: 143px;
+left: 410px;
+top: 189px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 290;
+font-size: 65px;
+line-height: 65px;
+
+color: #C1A98A;
+}
